@@ -15,7 +15,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/yourdeejay/yourdeejay.github.io/main/img/devicons/selenium-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/yourdeejay/yourdeejay.github.io/main/img/devicons/postman-original.svg" /> 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
