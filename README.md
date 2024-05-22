@@ -6,7 +6,7 @@
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
-- 💬 Talk to me about Web 3, Crypto, NFT, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 👽 Talk to me about AI Web 3, Crypto₿, NFT & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
