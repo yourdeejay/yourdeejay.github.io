@@ -1,4 +1,4 @@
-# 🏄‍♂️ Hi there! <img src="https://github.com/yourdeejay/yourdeejay.github.io/blob/main/img/gif/Hi.gif" width="35" /> I'm XXXXX.
+# 🏄‍♂️ Hi there! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" /> I'm XXXXX.
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm Certified IT Professional in Auckland, New Zealand 
