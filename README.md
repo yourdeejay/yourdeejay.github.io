@@ -1,6 +1,6 @@
-# 🏄‍♂️ Hi there! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" /> I'm XXXXX.
+# 👋 Hi there! I'm XXXXX 🤓. Welcome! 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### 🤓 About Me:
 - 🏦 I'm Certified IT Professional in Auckland, New Zealand 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
@@ -21,18 +21,11 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 📺 Latest YouTube Videos
+---
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![You NEED to Know This About Computer Science](https://ytcards.demolab.com/?id=9904LHBwSL8&title=You+NEED+to+Know+This+About+Computer+Science&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "You NEED to Know This About Computer Science")](https://www.youtube.com/watch?v=9904LHBwSL8)
-[![So, you want to be a programmer?](https://ytcards.demolab.com/?id=LV_r2ahaKto&title=So%2C+you+want+to+be+a+programmer%3F&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1243 "So, you want to be a programmer?")](https://www.youtube.com/watch?v=LV_r2ahaKto)
-[![A Complete Overview of DevOps](https://ytcards.demolab.com/?id=zG1cM9VSINg&title=A+Complete+Overview+of+DevOps&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=867 "A Complete Overview of DevOps")](https://www.youtube.com/watch?v=zG1cM9VSINg)
-[![Win this RTX 4090 signed by Jensen Huang](https://ytcards.demolab.com/?id=VybxPh8Trls&title=Win+this+RTX+4090+signed+by+Jensen+Huang&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Win this RTX 4090 signed by Jensen Huang")](https://www.youtube.com/watch?v=VybxPh8Trls)
-[![How Data Structures & Algorithms are Actually Used](https://ytcards.demolab.com/?id=ALPWOiUKIjY&title=How+Data+Structures+%26+Algorithms+are+Actually+Used&lang=en&timestamp=1710513900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699 "How Data Structures & Algorithms are Actually Used")](https://www.youtube.com/watch?v=ALPWOiUKIjY)
-[![The Biggest Issues I've Faced Web Scraping (and how to fix them)](https://ytcards.demolab.com/?id=vxk6YPRVg_o&title=The+Biggest+Issues+I%27ve+Faced+Web+Scraping+%28and+how+to+fix+them%29&lang=en&timestamp=1709917248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903 "The Biggest Issues I've Faced Web Scraping (and how to fix them)")](https://www.youtube.com/watch?v=vxk6YPRVg_o)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+### 👨‍🎓 Education & ✔️ Industry Certifications
+ - Master of FinTech & Investment Management with Distinction (2023 - 2024 Lincoln University, New Zealand)
+ - Bachelor of Computer & Information Sciences (2014 - 2017 Auckland University of Technology, New Zealand)
 
 #
 
